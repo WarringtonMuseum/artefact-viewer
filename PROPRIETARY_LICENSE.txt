@@ -1,0 +1,13 @@
+PROPRIETARY LICENSE:
+
+This repository contains a web-based application solely for the use of Culture Warrington, who are based at the following address:
+Cultural Quarter
+Palmyra Square S
+Warrington
+WA1 1BL
+England
+
+Culture Warrington are the only party who have rights to use and redistribute this software.  Other parties, groups, organisations, businesses etc. do not have the right to copy, 
+redistribute, download or otherwise use or modify any files within this repository.
+
+License authored by the developer of the Warrington Museum Artefact Viewer web application, Tom Southworth / tomsouthworth@hotmail.co.uk, 2020/08/10
