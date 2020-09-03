@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3848567560
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: archaeology collection.unity3d
+      Dependencies:
+        Dependency_0: archaeology artefact earthenware sphinx.unity3d
+        Dependency_1: archaeology artefact rhyton cup.unity3d
+        Dependency_2: archaeology artefact sandstone column.unity3d
+    Info_1:
+      Name: ethnology collection.unity3d
+      Dependencies:
+        Dependency_0: ethnology artefact benin bronze.unity3d
+        Dependency_1: ethnology artefact feejee mermaid.unity3d
+        Dependency_2: ethnology artefact redware vessel.unity3d
+    Info_2:
+      Name: social history collection.unity3d
+      Dependencies:
+        Dependency_0: social history artefact death mask.unity3d
+    Info_3:
+      Name: archaeology artefact earthenware sphinx.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: archaeology artefact rhyton cup.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: archaeology artefact sandstone column.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: ethnology artefact benin bronze.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: ethnology artefact feejee mermaid.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: ethnology artefact redware vessel.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: social history artefact death mask.unity3d
+      Dependencies: {}
