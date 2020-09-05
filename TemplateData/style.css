@@ -10,11 +10,11 @@ html {
   height: 56.25vw;
 }
 
-@media only screen and (min-width: 1920px) and (min-height: 1080px)
+@media only screen and (min-width: 1440px) and (min-height: 810px)
 {
   #unityContainer {
-    width: 1920px;
-    height: 1080px;
+    width: 1440px;
+    height: 810px;
   }
 }
 /**/
