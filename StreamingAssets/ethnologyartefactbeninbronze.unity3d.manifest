@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3402684527
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25d81a9ddbaa4b1a38c32bfe68f51a72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bb14b786aa0dcef70bfa58277e81d0a0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Benin Bronze/headdress
+  feature.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Benin Bronze/texture.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Benin Bronze/bronze
+  material feature.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Benin Bronze/material.mat
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Benin Bronze/model.fbx
+Dependencies: []
