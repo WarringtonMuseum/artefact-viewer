@@ -1,41 +1,41 @@
 ManifestFileVersion: 0
-CRC: 2829976230
+CRC: 3848567560
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: archaeologycollection.unity3d
+      Name: archaeology collection.unity3d
       Dependencies:
-        Dependency_0: archaeologyartefactearthenwaresphinx.unity3d
-        Dependency_1: archaeologyartefactrhytoncup.unity3d
-        Dependency_2: archaeologyartefactsandstonecolumn.unity3d
+        Dependency_0: archaeology artefact earthenware sphinx.unity3d
+        Dependency_1: archaeology artefact rhyton cup.unity3d
+        Dependency_2: archaeology artefact sandstone column.unity3d
     Info_1:
-      Name: archaeologyartefactearthenwaresphinx.unity3d
-      Dependencies: {}
+      Name: ethnology collection.unity3d
+      Dependencies:
+        Dependency_0: ethnology artefact benin bronze.unity3d
+        Dependency_1: ethnology artefact feejee mermaid.unity3d
+        Dependency_2: ethnology artefact redware vessel.unity3d
     Info_2:
-      Name: archaeologyartefactrhytoncup.unity3d
-      Dependencies: {}
+      Name: social history collection.unity3d
+      Dependencies:
+        Dependency_0: social history artefact death mask.unity3d
     Info_3:
-      Name: archaeologyartefactsandstonecolumn.unity3d
+      Name: archaeology artefact earthenware sphinx.unity3d
       Dependencies: {}
     Info_4:
-      Name: ethnologycollection.unity3d
-      Dependencies:
-        Dependency_0: ethnologyartefactbeninbronze.unity3d
-        Dependency_1: ethnologyartefactfeejeemermaid.unity3d
-        Dependency_2: ethnologyartefactredwarevessel.unity3d
+      Name: archaeology artefact rhyton cup.unity3d
+      Dependencies: {}
     Info_5:
-      Name: ethnologyartefactbeninbronze.unity3d
+      Name: archaeology artefact sandstone column.unity3d
       Dependencies: {}
     Info_6:
-      Name: ethnologyartefactfeejeemermaid.unity3d
+      Name: ethnology artefact benin bronze.unity3d
       Dependencies: {}
     Info_7:
-      Name: ethnologyartefactredwarevessel.unity3d
+      Name: ethnology artefact feejee mermaid.unity3d
       Dependencies: {}
     Info_8:
-      Name: socialhistorycollection.unity3d
-      Dependencies:
-        Dependency_0: socialhistoryartefactdeathmask.unity3d
+      Name: ethnology artefact redware vessel.unity3d
+      Dependencies: {}
     Info_9:
-      Name: socialhistoryartefactdeathmask.unity3d
+      Name: social history artefact death mask.unity3d
       Dependencies: {}
