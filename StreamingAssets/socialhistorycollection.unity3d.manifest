@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2721113298
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcf373b5d96b02e815989aad1af1cf0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5d1fa20c5de7f9e994b82e9bef0f2531
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e6741049640bf64bb62a8044a937190, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29dea9fcd55b3d0489e85a7c292ac309, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4baf475efd8f00e42a77cbd0d36a226c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtefactData/Social History Collection/Social History Collection.json
+- Assets/ArtefactData/Social History Collection/social history collection.asset
+- Assets/ArtefactData/Social History Collection/Social History Artefacts/Death Mask/chin
+  wart ip.asset
+- Assets/ArtefactData/Social History Collection/Social History Artefacts/Death Mask/preview.png
+- Assets/ArtefactData/Social History Collection/Social History Artefacts/Death Mask/forehead
+  wart ip.asset
+- Assets/ArtefactData/Social History Collection/bgimage.png
+- Assets/ArtefactData/Social History Collection/Social History Artefacts/Death Mask/death
+  mask.asset
+Dependencies:
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/StreamingAssets/socialhistoryartefactdeathmask.unity3d
