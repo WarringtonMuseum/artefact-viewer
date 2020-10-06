@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 3063370541
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d07314d2ee109c7bf615371e3aac6304
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5d1fa20c5de7f9e994b82e9bef0f2531
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e6741049640bf64bb62a8044a937190, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29dea9fcd55b3d0489e85a7c292ac309, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4baf475efd8f00e42a77cbd0d36a226c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtefactData/Ethnology Collection/Ethnology Collection.json
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Redware Vessel/design
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Redware Vessel/redware
+  vessel.asset
+- Assets/ArtefactData/Ethnology Collection/bgimage.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Feejee Mermaid/tail
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Feejee Mermaid/preview.png
+- Assets/ArtefactData/Ethnology Collection/ethnology collection.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Feejee Mermaid/feejee
+  mermaid.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Benin Bronze/headdress
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Benin Bronze/benin
+  bronze.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Benin Bronze/preview.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Feejee Mermaid/torso
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Redware Vessel/preview.png
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Redware Vessel/whistle
+  ip.asset
+- Assets/ArtefactData/Ethnology Collection/Ethnology Artefacts/Benin Bronze/bronze
+  material ip.asset
+Dependencies:
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/AVAssetBundles/ethnologyartefactbeninbronze.unity3d
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/AVAssetBundles/ethnologyartefactfeejeemermaid.unity3d
+- D:/UnityProjects/UnityFreelance/Clients/WMAG/WMAG_3DViewer/AssetCreator/ArtefactViewerAssetCreator/Assets/AVAssetBundles/ethnologyartefactredwarevessel.unity3d
